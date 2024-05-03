@@ -1,6 +1,0 @@
-spring:
-  profile:
-    active:
-      - docker
-      - k8s
-      - other

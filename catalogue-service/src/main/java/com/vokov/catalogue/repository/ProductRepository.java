@@ -1,6 +1,6 @@
-package com.vokov.manager.repository;
+package com.vokov.catalogue.repository;
 
-import com.vokov.manager.entity.Product;
+import com.vokov.catalogue.entity.Product;
 
 import java.util.List;
 import java.util.Optional;

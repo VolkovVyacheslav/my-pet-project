@@ -1,6 +1,6 @@
-package com.vokov.manager.service;
+package com.vokov.catalogue.service;
 
-import com.vokov.manager.entity.Product;
+import com.vokov.catalogue.entity.Product;
 
 import java.util.List;
 import java.util.Optional;

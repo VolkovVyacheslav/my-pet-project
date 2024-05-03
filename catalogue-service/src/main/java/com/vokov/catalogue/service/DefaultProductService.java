@@ -1,7 +1,7 @@
-package com.vokov.manager.service;
+package com.vokov.catalogue.service;
 
-import com.vokov.manager.entity.Product;
-import com.vokov.manager.repository.ProductRepository;
+import com.vokov.catalogue.entity.Product;
+import com.vokov.catalogue.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
